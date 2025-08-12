@@ -1,0 +1,2 @@
+# aimbot2x
+aim
